@@ -11,7 +11,7 @@
     <td> ✖️ </td>
   </tr>
   <tr>    
-    <td>JavaScript Algorithms and Data Structures Certification </td> 
+    <td><a href="JavaScript Algorithms and Data Structures Certification">JavaScript Algorithms and Data Structures Certification </a></td> 
     <td> ✔️ </td>
   </tr>
     <tr>    
