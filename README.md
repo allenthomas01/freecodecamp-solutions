@@ -28,7 +28,7 @@
   </tr>
     <tr>    
     <td>Back End Development and APIs Certification </td> 
-    <td> ✖️ </td>
+    <td> ✔️ </td>
   </tr>
   <tr>
     <td>Quality Assurance Certification</td> 
