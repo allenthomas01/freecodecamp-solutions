@@ -1,4 +1,4 @@
-# freecodecamp-solutions (work in progress 💻)
+# freecodecamp-solutions (in progress 💻)
 [![freeCodeCamp Social Banner](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)](https://www.freecodecamp.org/)
 ## All Courses
 <table>
